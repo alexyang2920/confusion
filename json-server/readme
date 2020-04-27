@@ -1,0 +1,6 @@
+- install
+	npm install -g json-server
+
+- start
+	bin/json-server --watch db.json -p 3001 -d 2000
+
